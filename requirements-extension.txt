@@ -1,0 +1,2 @@
+# In the existing wisland Python environment; no replacement of its packages.
+winrt-Windows.Devices.Enumeration==3.2.1

@@ -1,0 +1,21 @@
+{
+  "sourceProject": "LiquidGlassWinAirDrop",
+  "sourceCommit": "4ffc485",
+  "sourcePrefix": "integrations/wisland",
+  "originalControlPageSha256": "2920592a75af1471c7b3c49c88f36a5a27a0d387e0130c3da53c846780b7b368",
+  "copiedSourceSha256": {
+    "install.py": "498b2d3c10b09c5bf41a34a042891fc9045907e57700ab4a09b05e12d135546d",
+    "LICENSE-wisland.txt": "561c20433530dbcfc3aa90578dae277e78e5c8d7a1ec3cff5b50d87cdf2ff26e",
+    "README.md": "27dba33cef9958fa99613b90df6323499604ab6e021a7970559d023efe68a087",
+    "requirements-extension.txt": "4b09ba7b12077bec297cf342cb7bc5ead313c0430be8c79cc7bfbbeca3ade597",
+    "payload/services/airdrop.py": "9ef8f5d83001afc4556a5144a9c6830d61d773af7787be01c84e26447455089e",
+    "payload/services/connectivity.py": "3eca4a777b71c2f7d5ee8828e0eafd05cf57c6d353cc07f15676fa1bc823c5b9",
+    "payload/ui/airdrop.py": "66b4ce8badcabbf5d39848a77aa04faa32b50a1be0ff35a2f8fcb8f304c6c0c0",
+    "payload/ui/backdrop_filter.py": "714d931fbb01ca5b74bf8a43ada0ed1f9ad6c7ad84487a2d59ccb2efcfbd1942",
+    "payload/ui/connections.py": "d6bb8fbba85dda33f3a63be5ffae75e1b64f044d7855af2f2b6d30861597eadd",
+    "payload/ui/control_skin.py": "937442124ccf8967c081c06981a33256b0ffe4f4eb6000c02d717e7ae8beb88e",
+    "payload/ui/detail_layer.py": "1ddff0c06c5b0a4fa19bcccee79abca18b8e4a6b5228142e1e56a6ba5d5becb0",
+    "tests/check_connections.py": "ea00491530619571bb3a957b8727df553f533c7236ac1495fa30d9456a18d9c1",
+    "tests/check_extension.py": "f422275bfd7907df059924e62211d5dce76dcfe5960e9d7da9627c58173e3fad"
+  }
+}

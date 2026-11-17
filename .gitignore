@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.build/
+artifacts/
+dist/
+runtime/
+*.local.json
+*.log
+*.pcap
+*.pem
+*.key
+.DS_Store
