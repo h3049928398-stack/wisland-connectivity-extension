@@ -4,6 +4,8 @@
 
 三个面板在原灵动岛窗口内展开，共用玻璃胶囊按钮、连续背景模糊、三弧 Wi-Fi 图标和收起动画，同时只显示一个。AirDrop 来件会切换到接收确认面板。
 
+开发者请读[开发文档](docs/DEVELOPMENT.md)、[交接文档](docs/HANDOFF.md)和[集成接口](docs/INTEGRATION.md)。接收端源码现独立维护在[airdrop-windows私有仓库](https://github.com/h3049928398-stack/airdrop-windows)。
+
 ![Wi-Fi 样式预览，使用虚构网络](docs/images/wifi.png)
 ![蓝牙样式预览，使用虚构设备](docs/images/bluetooth.png)
 
